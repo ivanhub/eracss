@@ -7955,10 +7955,10 @@ section.main {    padding: 0em 3% 0; }
 	background: rgba(255,255,255,0.3);
 	box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
 	-webkit-transition: all 0.3s ease-in-out;
-	-moz-transition: all 0.3s ease-in-out;
-	-o-transition: all 0.3s ease-in-out;
-	-ms-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
 }
 
 .cs-text span span:last-child{
